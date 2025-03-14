@@ -1,15 +1,15 @@
 {
   "name": "nativetodoapp",
   "homepage": "https://<kinapolson>.github.io/<react-native-expo-todo>",
-  "predeploy": "expo export:web",
-  "deploy": "gh-pages -d build",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "predeploy": "expo export:web",
+    "deploy": "gh-pages -d web-build"
   },
   "dependencies": {
     "@expo/webpack-config": "18.0.1",
