@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "%3Ckinapolson%3E.github.io/%3Creact-native-expo-todo%3E/static/js/main.92bf3830.js",
+    "static/js/421.2947d82a.js": "%3Ckinapolson%3E.github.io/%3Creact-native-expo-todo%3E/static/js/421.2947d82a.js",
+    "favicon.ico": "%3Ckinapolson%3E.github.io/%3Creact-native-expo-todo%3E/favicon.ico",
+    "index.html": "%3Ckinapolson%3E.github.io/%3Creact-native-expo-todo%3E/index.html",
+    "static/media/rocket.png": "%3Ckinapolson%3E.github.io/%3Creact-native-expo-todo%3E/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "%3Ckinapolson%3E.github.io/%3Creact-native-expo-todo%3E/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "%3Ckinapolson%3E.github.io/%3Creact-native-expo-todo%3E/favicon-32.png",
+    "static/media/star.png": "%3Ckinapolson%3E.github.io/%3Creact-native-expo-todo%3E/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "%3Ckinapolson%3E.github.io/%3Creact-native-expo-todo%3E/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "%3Ckinapolson%3E.github.io/%3Creact-native-expo-todo%3E/favicon-16.png",
+    "manifest.json": "%3Ckinapolson%3E.github.io/%3Creact-native-expo-todo%3E/manifest.json",
+    "serve.json": "%3Ckinapolson%3E.github.io/%3Creact-native-expo-todo%3E/serve.json",
+    "main.92bf3830.js.map": "%3Ckinapolson%3E.github.io/%3Creact-native-expo-todo%3E/static/js/main.92bf3830.js.map",
+    "421.2947d82a.js.map": "%3Ckinapolson%3E.github.io/%3Creact-native-expo-todo%3E/static/js/421.2947d82a.js.map"
+  },
+  "entrypoints": [
+    "static/js/421.2947d82a.js",
+    "static/js/main.92bf3830.js"
+  ]
+}
